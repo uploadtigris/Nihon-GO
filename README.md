@@ -4,7 +4,7 @@ Nihon-go! is an interactive web application that combines mapping capabilities w
 
 <img src="pictures/pngwing.com.png" alt="Nihon-go Icon" width="150" height="150">
 
-<img src="pictures/Screenshot 2024-11-03 131629.png" alt="Nihon-go Screenshot" width="400">
+<img src="pictures/Screenshot 2024-11-03 131629.png" alt="Nihon-go Screenshot" width="700">
 
 
 ## Table of Contents
