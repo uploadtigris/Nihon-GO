@@ -1,6 +1,6 @@
 # Nihon-go!
 
-Nihon-go! is an interactive web application that combines mapping capabilities with an engaging chat interface, allowing users to explore, plan travel iterneraries and learn about Japan's geography and history in a unique, user-friendly manner.
+Nihon-go! is an interactive web application that combines mapping capabilities with an engaging chat interface, allowing users to explore, plan travel iterneraries and learn about Japan's geography and history in a unique, user-friendly manner. **Currently the only working component is the front-end interface** ~> Backend coming soon!
 
 <img src="pictures/pngwing.com.png" alt="Nihon-go Icon" width="150" height="150">
 
